@@ -1,0 +1,7 @@
+print("=========================")
+print("MI PRIMER PROGRAMA PYTHON")
+print("=========================")
+print("Nombre: Abdias")
+print("Carrera: Ingenieria en Sistemas")
+print("Semestre: Primero")
+print("EStoy aprendiendo Git y Github")
